@@ -45,6 +45,7 @@
 - [Slide báo cáo](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/DAA_DAC_Release2-1.pdf)
 - [Thống kê điểm các nhóm](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Assignments/Scoreboard.xlsx)
 - [Báo cáo thảo luận](https://docs.google.com/spreadsheets/d/1MQQ0btZaCDPxWkkSKl6q3FBGyKCeIGUcval5UzHFlxo/edit?fbclid=IwAR1_ytQwsvxIGZjIw4_EXJRtBCL9nS4rwol4sR6j11FvooMBwppYqyn2wHc#gid=1307696585)
+- [MiniGame cuối buổi](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/MiniGame.pptm)
 # 4.Thư mục bài tập
   + [Key_DIY_Sorter](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/A%20-%20DIY%20Sorter)
   + [Key_Blinded_Game](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Code/blinded_game.py)
