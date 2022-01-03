@@ -13,7 +13,9 @@
 *+ Update 20/10/2021: Đã cập nhật lại thư mục, chỉnh sửa slide theo feedback của một số bạn và thêm code Karatsuba đơn giản bằng Python*
 
 *+ Update 27/10/2021: Slide đã được sửa đổi theo yêu cầu của thầy và mọi người (Phần về ứng dụng Multi-Thread sẽ đến sau)*
-
+  
+*+ Update 04/01/2022: Đã sửa đổi và tái bản slide, thêm bảng điểm và cái Problem với bộ test đi kèm ở thư mục Assignments*
+  
 
 <h3 align="left">Ngôn ngữ lập trình: Python</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -42,13 +44,13 @@
 - Số thứ tự chủ đề: 4
 - Tên chủ đề: Divide and Conquer (Chia để trị)
 - Mục tiêu: Vận dụng được phương pháp thiết kế để giải bài toán cụ thể, thực hiện theo các kỹ thuật computational thinking
-- [Slide báo cáo](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/DAA_DAC_R2%20-%20v2.pdf)
+- [Slide báo cáo](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/DivideAndConquer_Presentation.pdf)
 - [Thống kê điểm các nhóm](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Assignments/Scoreboard.xlsx)
 - [Báo cáo thảo luận](https://docs.google.com/spreadsheets/d/1MQQ0btZaCDPxWkkSKl6q3FBGyKCeIGUcval5UzHFlxo/edit?fbclid=IwAR1_ytQwsvxIGZjIw4_EXJRtBCL9nS4rwol4sR6j11FvooMBwppYqyn2wHc#gid=1307696585)
-- [MiniGame cuối buổi](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/MiniGame.pptm)
+- [MiniGame cuối buổi](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Learning%20Material/MiniGame.pptm)
 # 4.Thư mục bài tập
-  + [Key_DIY_Sorter](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/A%20-%20DIY%20Sorter)
-  + [Key_Blinded_Game](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Code/blinded_game.py)
-  + [Key_A_simple_problem](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/C%20-%20A%20Simple%20Problem)
+  + [DIY_Sorter](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/A%20-%20DIY%20Sorter)
+  + [Blinded_Game](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/B%20-%20Blinded%20Game)
+  + [A_simple_problem](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/C%20-%20A%20Simple%20Problem)
 # 5.Tổng kết môn học
 - Link file pdf báo cáo cuối kì:...
