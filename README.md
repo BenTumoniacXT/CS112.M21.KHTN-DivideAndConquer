@@ -5,7 +5,7 @@
 
 # <p align="center"> CS112.M11.KHTN - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
   
-# <p align="center"> ALGORITHM ANALYSIS AND DESIGN
+# <p align="center"> DESIGN AND ANALYSIS OF ALGORITHMS
 
 
 *+ Update 19/10/2021: Mình đã upload qua một số file cho mọi người xem trước, mong mọi người hãy download hết các file về để chuẩn bị trước buổi học*
