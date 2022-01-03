@@ -34,10 +34,10 @@
 # 2.Giới thiệu nhóm
 - Tên nhóm: Nhóm 2
 
-|STT|Họ tên|MSSV|Vai trò|Github|
-|:---:|:-----:|:------:|:------:|:------:|
-|1|Lê Đoàn Phúc Minh|20520243|Nhóm Trường|[BenTumoniacXT](https://github.com/BenTumoniacXT)|
-|2|Nguyễn Duy Đạt|20520435|Thành Viên|[duydattqta13](https://github.com/duydattqta13)|
+|STT|Họ tên|MSSV|Github|
+|:---:|:-----:|:------:|:------:|
+|1|Lê Đoàn Phúc Minh|20520243|[BenTumoniacXT](https://github.com/BenTumoniacXT)|
+|2|Nguyễn Duy Đạt|20520435|[duydattqta13](https://github.com/duydattqta13)|
 # 3.Chủ đề báo cáo
 - Số thứ tự chủ đề: 4
 - Tên chủ đề: Divide and Conquer (Chia để trị)
