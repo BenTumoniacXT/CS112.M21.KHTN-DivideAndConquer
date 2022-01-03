@@ -14,7 +14,7 @@
 
 *+ Update 27/10/2021: Slide đã được sửa đổi theo yêu cầu của thầy và mọi người (Phần về ứng dụng Multi-Thread sẽ đến sau)*
   
-*+ Update 04/01/2022: Đã sửa đổi và tái bản slide, thêm bảng điểm và cái Problem với bộ test đi kèm ở thư mục Assignments*
+*+ Update 04/01/2022: Đã sửa đổi và tái bản slide, thêm bảng điểm và các Problem với bộ test đi kèm ở thư mục Assignments*
   
 
 <h3 align="left">Ngôn ngữ lập trình: Python</h3>
