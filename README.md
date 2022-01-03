@@ -24,7 +24,7 @@
 - [Giới thiệu môn học](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#1gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
 - [Giới thiệu nhóm](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#2gi%E1%BB%9Bi-thi%E1%BB%87u-nh%C3%B3m)
 - [Chủ đề báo cáo](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#3ch%E1%BB%A7-%C4%91%E1%BB%81-b%C3%A1o-c%C3%A1o)
-- [Thư mục bài tập](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#4th%C6%B0-m%E1%BB%A5c-b%C3%A0i-t%E1%BA%ADp)
+- [Thư mục bài tập](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments)
 - [Tổng kết môn học](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#5t%E1%BB%95ng-k%E1%BA%BFt-m%C3%B4n-h%E1%BB%8Dc)
 
 # 1.Giới thiệu môn học
