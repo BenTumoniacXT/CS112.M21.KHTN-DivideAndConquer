@@ -28,7 +28,7 @@
 - [Tổng kết môn học](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat#5t%E1%BB%95ng-k%E1%BA%BFt-m%C3%B4n-h%E1%BB%8Dc)
 
 # 1.Giới thiệu môn học
-- Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
+- Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - DESIGN AND ANALYSIS OF ALGORITHMS
 - Mã môn học: CS112
 - Mã lớp: CS112.M11.KHTN
 - Năm học: HK1 (2021 - 2022)
