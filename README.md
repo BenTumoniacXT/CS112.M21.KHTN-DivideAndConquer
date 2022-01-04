@@ -53,4 +53,4 @@
   + [Blinded_Game](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/B%20-%20Blinded%20Game)
   + [A_simple_problem](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/tree/main/Assignments/C%20-%20A%20Simple%20Problem)
 # 5.Tổng kết môn học
-- Link file pdf báo cáo cuối kì:...
+- [Báo cáo cuối kì](https://github.com/BenTumoniacXT/CS112_PhucMinh_DuyDat/blob/main/Nh%C3%B3m2_B%C3%A1oc%C3%A1ocu%E1%BB%91ik%C3%AC.pdf)
